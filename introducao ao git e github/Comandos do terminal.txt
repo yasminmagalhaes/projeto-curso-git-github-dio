@@ -1,0 +1,9 @@
+Comandos básicos para o uso do Terminal
+
+- ls -> Lista o que contém na pasta;
+- cd -> Usado para navegar nas pastas, entrando ou saindo da pasta. Saindo da pasta: cd ..;
+- clear -> Limpar tela do terminal (ou atalho ctrl l);
+- mkdir -> Cria uma pasta: mkdir pasta1 cria uma pasta chamada “pasta1”;
+- echo -> Pronta no terminal uma frase ou texto;
+- “echo hello > hello.txt” -> Cria um arquivo txt com a palavra “hello” escrita dentro;
+- rm - rf -> Excluir diretório;
